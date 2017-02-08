@@ -1,4 +1,4 @@
-#Search Engine
+#Search Engine (2nd part of project Cloud Based Search Engine)
 This is a simple search engine application which has been developed using Django framework.
 This search engine uses simple fulltext search. The database being searched over is postgresql.
 Database is generated from the crawlers developed in initial phase of the project. These crawlers can be found out at https://github.com/DeepankDixit/Web-Crawler
