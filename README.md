@@ -16,3 +16,6 @@ To Install Django
    2. sudo apt-get install python-django
 You can test the installation 
    1. django-admin --version
+
+# Report(Cloud Based Search Engine(REPORT).pdf)
+The repository also contains the final report of this project. In case you should want to have a better understanding of my work, read the report.
